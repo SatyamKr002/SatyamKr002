@@ -73,7 +73,7 @@ Whether it’s a new framework or a DSA pattern, I love learning, experimenting,
 
 | GitHub Stats | Streak Stats |
 |--------------|--------------|
-| ![](https://github-readme-stats.vercel.app/api?username=SatyamKr002&theme=dark&show_icons=true&count_private=true&hide_border=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=SatyamKr2002&theme=dark&hide_border=false) |
+| ![](https://github-readme-stats.vercel.app/api?username=SatyamKr002&theme=dark&show_icons=true&count_private=true&hide_border=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=SatyamKr002&theme=dark&hide_border=false) |
 
 <br>
 
